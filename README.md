@@ -1,7 +1,7 @@
 # Ex09 Event Registration Web Application
-## Name: Roseline B
-## RegNo: 212221220046
-## Date: 12-11-2024
+## Name: Mohamed Rashith S
+## RegNo: 24004142
+## Date: 22-12-2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
