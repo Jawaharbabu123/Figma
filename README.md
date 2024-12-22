@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Name: Mohamed Rashith S
+## Name: jawahar S
 ## RegNo: 24004142
 ## Date: 22-12-2024
 
